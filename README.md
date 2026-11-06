@@ -2,8 +2,6 @@
 ## Project Overview
 This project cleans a raw sales dataset (`sales_raw.csv`) with Pandas, analyzes revenue by region and category, and then edits the cleaned file.
 
-- **Part A (70 marks):** load, inspect, clean, calculate revenue, groupby summaries, two charts, two findings, save `cleaned_sales.csv`
-- **Part B (30 marks):** add `tax_amount`, update Books prices, remove a row, add and drop a temporary column, save `sales_updated.csv`
 
 ## Files
 | File | Description |
